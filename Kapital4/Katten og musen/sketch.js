@@ -137,4 +137,5 @@ function borderCheck() {
 
   
 
-//den med kommentar
+//Den med kommentar.
+//Koden er den samme som der jeg afleveret på teams, aflever det her nu fordi min repository virker.
